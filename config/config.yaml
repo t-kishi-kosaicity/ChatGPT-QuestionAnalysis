@@ -1,0 +1,8 @@
+# ファイルパスの設定
+result_question_file_path: 'data/result_question.csv'
+classification_file_path: 'data/classification.csv'
+prompt_file_path: 'config/prompt.txt'
+output_csv_file_path: 'output/output.csv'
+
+# OpenAI設定
+openai_model: 'gpt-3.5-turbo'
